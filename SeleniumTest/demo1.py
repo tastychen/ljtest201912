@@ -47,5 +47,4 @@ print(a)
 assert a == "iphone12_百度搜索"
 print("测试用例执行通过！")
 
-
 driver.quit()
